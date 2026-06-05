@@ -81,3 +81,4 @@ fenceguard-sensor/
 ---
 
 I'm documenting the whole process as I go — hardware choices, firmware, and data analysis. Follow along if that's your kind of thing.
+https://dev.to/emeliefogelstrom/
