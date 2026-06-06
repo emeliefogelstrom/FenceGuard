@@ -64,7 +64,7 @@ exec(open('main.py').read())
 | Step | Status |
 |---|---|
 | PIR sensor basic read | ✅ Done |
-| Timestamped logging | 🔄 In progress |
+| Timestamped logging | ✅ Done |
 | Outdoor testing — wind vs. motion | ⏳ Planned |
 | Vibration sensor | ⏳ Planned |
 | LoRa transmission | ⏳ Planned |
